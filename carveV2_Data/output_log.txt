@@ -1,0 +1,57 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.174 seconds
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV2_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.358800 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5bd8 -> priority: 1 
+  Thread -> id: 5818 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.310300 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 496.
+Total: 0.302000 ms (FindLiveObjects: 0.060300 ms CreateObjectMapping: 0.012700 ms MarkObjects: 0.218300 ms  DeleteObjects: 0.009500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.451100 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 966.
+Total: 0.205700 ms (FindLiveObjects: 0.028600 ms CreateObjectMapping: 0.020800 ms MarkObjects: 0.114700 ms  DeleteObjects: 0.041200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.446300 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 736.
+Total: 0.167600 ms (FindLiveObjects: 0.026000 ms CreateObjectMapping: 0.015800 ms MarkObjects: 0.120300 ms  DeleteObjects: 0.004800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.432700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 736.
+Total: 0.179000 ms (FindLiveObjects: 0.025800 ms CreateObjectMapping: 0.018300 ms MarkObjects: 0.130900 ms  DeleteObjects: 0.003500 ms)
+
