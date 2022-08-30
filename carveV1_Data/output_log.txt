@@ -1,0 +1,82 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.320 seconds
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bradf\OneDrive\Documents\Unity Projects\CARVE\carveV1_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 4160x1611 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 1.202000 ms
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.575500 ms
+
+Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.202600 ms (FindLiveObjects: 0.017100 ms CreateObjectMapping: 0.018500 ms MarkObjects: 0.128600 ms  DeleteObjects: 0.037800 ms)
+
+The referenced script on this Behaviour (Game Object 'Scripts') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Scripts') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.292100 ms
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 391.
+Total: 0.216300 ms (FindLiveObjects: 0.020900 ms CreateObjectMapping: 0.012300 ms MarkObjects: 0.140900 ms  DeleteObjects: 0.041500 ms)
+
+Scene 'NucleusMenu' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 520)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.498900 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 963.
+Total: 0.230300 ms (FindLiveObjects: 0.038800 ms CreateObjectMapping: 0.017700 ms MarkObjects: 0.161100 ms  DeleteObjects: 0.011900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.496700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 0.177000 ms (FindLiveObjects: 0.026800 ms CreateObjectMapping: 0.015900 ms MarkObjects: 0.128000 ms  DeleteObjects: 0.005600 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7d8 -> priority: 1 
+  Thread -> id: 1754 -> priority: 1 
